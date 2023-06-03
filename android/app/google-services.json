@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "564769155868",
+    "project_id": "mentality-b5cfd",
+    "storage_bucket": "mentality-b5cfd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:564769155868:android:41409b08b92819356ce8d9",
+        "android_client_info": {
+          "package_name": "com.pea.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "564769155868-tvtmafcc3gsgm0ku53dmdeh87frh5nt8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDxa4pfk6bvbCGEfHLOluSElqYch8uGCk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "564769155868-tvtmafcc3gsgm0ku53dmdeh87frh5nt8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
